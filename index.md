@@ -6,3 +6,6 @@ Bisher nur Header
 
 ## nächste Schritte
 vermutlich weitere Inhalte hinzufügen und dann den branch mit man mergen
+
+## uuuuuuuuund hier kommt das Katzenbild
+![eine Katze](https://octodex.github.com/images/yaktocat.png)
